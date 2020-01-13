@@ -167,7 +167,7 @@ NOTE: This is main rtl stylesheet of template, This file contains the styling fo
 section:hover .title-effect::before, section:focus .title-effect::before { transform: scale3d(-1,-1,-1); }*/
 
 
-/*index-01 */
+/*index */
 
 .happy-clients .tab-content .quoter-icon {
     right: 0;
